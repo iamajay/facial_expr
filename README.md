@@ -6,15 +6,17 @@ and scipy libraries of Python for implementation of this ML program where seven 
 recognized based on trained data set.<br />
 <br />
 <br />
-<br />
-Libraries Used :- 1.Theano.<br />
+Libraries Used :-<br /> 1.Theano.<br />
                   2.PIL<br />
                  3.Numpy<br />
                   4.cPickle<br />
                   5.Gzip<br />
                   6.sklearn<br />
-Here two models are there-: 1. Convolution layer(deep learning)<br />
-                            2. SVM<br />
+                  <br />
+                  <br />
+Here two models are there-: <br />1. Convolution layer(deep learning)<br />
+                            2. SVM<br /><br />
+                            <br /><br />
 Dataset Used- jaffer(213 images) -converted into pickle format using Converter.py and processed using crop.py<br />
 net3.py has been used in the deep learning algorithm for buiding the desired convolution layer and which uses the concept of feature mapaping <br />
 Here codeFACIAL is the main code which builds the main trained model of deep learning using 6 convolution layer and 2 fully connected layers<br />
