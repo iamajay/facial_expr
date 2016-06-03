@@ -22,6 +22,6 @@ net3.py has been used in the deep learning algorithm for buiding the desired con
 Here codeFACIAL is the main code which builds the main trained model of deep learning using 6 convolution layer and 2 fully connected layers<br />
 SVM model is build by loading the same jaffe data which has been built using Converter.py in pickle format and then fitting the training<br /> model and label to predict the accuracy of the code .<br />
 Accuracy is better if size of the dataset is large and it has been preprocessed by any feature extraction model on the dataset .<br />
-We had not appliedthe feature extraction on the code.If you are familiar with the same, you can append the logic of same in this model.<br />
+We had not applied the feature extraction on the code. If you are familiar with the same, you can append the logic of same in this model.<br />
 
 <br />
