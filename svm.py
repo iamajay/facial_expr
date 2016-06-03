@@ -2,7 +2,7 @@
 
 #### Libraries
 # My libraries
-import mnist_loader 
+import loader 
 
 # Third-party libraries
 from sklearn import svm
